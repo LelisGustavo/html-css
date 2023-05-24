@@ -25,6 +25,9 @@
 * [Exercicio 21] (https://lelisgustavo.github.io/html-css/exercicios/ex021/)
 * [Exercicio 22] (https://lelisgustavo.github.io/html-css/exercicios/ex022/)
 * [Exercicio 23] (https://lelisgustavo.github.io/html-css/exercicios/ex023/)
+* [Exercicio 24] (https://lelisgustavo.github.io/html-css/exercicios/ex024/)
+* [Exercicio 25] (https://lelisgustavo.github.io/html-css/exercicios/ex025/)
+* [Exercicio 26] (https://lelisgustavo.github.io/html-css/exercicios/ex026/)
  
 
 ** Desafios
